@@ -87,7 +87,8 @@ A simple desktop chat application built using Python Tkinter.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OIBSIP.git
+GitHub: https://github.com/chaitanyapenmetsa24-jpg
+LinkedIn: (linkedin.com/in/chaitanya-penmetsa-858742358)
 ```
 
 Go to any task folder.
