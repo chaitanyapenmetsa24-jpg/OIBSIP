@@ -8,7 +8,7 @@ This repository contains all the projects completed during my internship.
 
 ## About Me
 
-**Name:** Chaitanya Varma
+**Name:** Penmetsa Chaitanya Varma
 
 **Domain:** Python Development
 
@@ -102,6 +102,6 @@ py main.py
 
 ## Author
 
-**Chaitanya Varma**
+**Penmetsa Chaitanya Varma**
 
 Python Developer
